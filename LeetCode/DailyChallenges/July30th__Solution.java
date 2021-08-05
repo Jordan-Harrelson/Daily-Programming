@@ -1,3 +1,4 @@
+import java.util.*;
 class MapSum {                                                                                         //class declaration
     HashMap<String,Integer> theMap;                                                                    //declare a hashmap for the class
     /** Initialize your data structure here. */                                                        //
